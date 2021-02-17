@@ -1,0 +1,13 @@
+# Start time: 15:28:55 on Nov 16,2020
+# Loading work.ram_test_read
+# Loading work.ram
+run -all
+#                    0data at address     0 is zzzzzzzz
+#                    5data at address     0 is aaaaaaaa
+#                   10data at address     1 is 00aabbcc
+#                   15data at address     2 is 00bb2351
+#                   20data at address     3 is 00ccffff
+#                   25data at address     4 is 00ddabcd
+#                   30data at address     5 is 00000000
+#                   35data at address     6 is ffffefff
+#                   40data at address     7 is eeeeeeee

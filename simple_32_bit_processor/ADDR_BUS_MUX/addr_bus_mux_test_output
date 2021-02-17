@@ -1,0 +1,7 @@
+# Start time: 15:52:28 on Nov 16,2020
+# Loading work.addr_bus_mux_test
+# Loading work.addr_bus_mux
+run -all
+#                    0 select = x, address_bus xxxxxxxxxxxxxxxx
+#                    5 select = 0, address_bus 0000000000000001
+#                   10 select = 1, address_bus 0000000011001000

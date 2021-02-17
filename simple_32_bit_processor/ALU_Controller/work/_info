@@ -1,0 +1,106 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vADD
+Z0 !s110 1605547469
+!i10b 1
+!s100 DdcNVnhnfZ2hWR?ZR^WKV1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INB37mE]=R;SIaIM39i^Fm1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/ALU_Controller
+w1605543806
+8C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_ADD/32_BIT_ADD.v
+FC:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_ADD/32_BIT_ADD.v
+!i122 1
+L0 1 6
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1605547469.000000
+!s107 C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_ADD/32_BIT_ADD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_ADD/32_BIT_ADD.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@d@d
+vINST_FTCH
+R0
+!i10b 1
+!s100 B0eO2e<kc0iR@?Z]NCQZe3
+R1
+I3fQ1A]U0>D8O4DHPR5oH^0
+R2
+R3
+w1605547162
+8C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/ALU_Controller/Instruction_Fetch.V
+FC:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/ALU_Controller/Instruction_Fetch.V
+!i122 0
+L0 3 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/ALU_Controller/Instruction_Fetch.V|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/ALU_Controller/Instruction_Fetch.V|
+!i113 1
+R6
+R7
+n@i@n@s@t_@f@t@c@h
+vmux_32_bit_16x1
+R0
+!i10b 1
+!s100 BkaaKEU]NIPIbQk:2oF5l1
+R1
+I^SWe:A_Mo`bEojoUT@[7h1
+R2
+R3
+w1605531912
+8C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_16x1_MUX/mux_32_bit_16x1.v
+FC:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_16x1_MUX/mux_32_bit_16x1.v
+!i122 3
+L0 5 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_16x1_MUX/mux_32_bit_16x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_16x1_MUX/mux_32_bit_16x1.v|
+!i113 1
+R6
+R7
+vSUB
+R0
+!i10b 1
+!s100 gOzN37bb>_7@TakeaLGgG3
+R1
+I2Qik0<b`SLVNgo:n`VWbB2
+R2
+R3
+w1605543954
+8C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_SUB/32_BIT_SUB.v
+FC:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_SUB/32_BIT_SUB.v
+!i122 2
+L0 2 6
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_SUB/32_BIT_SUB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_SUB/32_BIT_SUB.v|
+!i113 1
+R6
+R7
+n@s@u@b

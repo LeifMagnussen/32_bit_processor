@@ -1,0 +1,16 @@
+# Compile of Instruction_Fetch.V was successful.
+# Compile of ALU_CTRL.V failed with 3 errors.
+# Compile of registers.v failed with 1 errors.
+# Compile of 32_BIT_ADD.v was successful.
+# Compile of 32_BIT_SUB.v was successful.
+# Compile of mux_32_bit_16x1.v was successful.
+# 6 compiles, 2 failed with 4 errors.
+# Compile of registers.v failed with 1 errors.
+# Compile of registers.v failed with 1 errors.
+# Compile of registers.v failed with 1 errors.
+# Compile of registers.v failed with 1 errors.
+# Compile of registers.v failed with 1 errors.
+# Compile of ALU_CTRL.V failed with 3 errors.
+# Compile of ALU_CTRL.V failed with 3 errors.
+# Compile of ALU_CTRL.V failed with 3 errors.
+# Compile of ALU_CTRL.V failed with 3 errors.

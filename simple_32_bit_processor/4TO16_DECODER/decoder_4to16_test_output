@@ -1,0 +1,21 @@
+# Start time: 13:49:21 on Nov 16,2020
+# Loading work.decoder_4to16_test
+# Loading work.decoder_4to16
+run -all
+#                    0 in = 0000, enable 0000000000000001
+#                    5 in = 0001, enable 0000000000000010
+#                   10 in = 0010, enable 0000000000000100
+#                   15 in = 0011, enable 0000000000001000
+#                   20 in = 0100, enable 0000000000010000
+#                   25 in = 0101, enable 0000000000100000
+#                   30 in = 0110, enable 0000000001000000
+#                   35 in = 0111, enable 0000000010000000
+#                   40 in = 1000, enable 0000000100000000
+#                   45 in = 1001, enable 0000001000000000
+#                   50 in = 1010, enable 0000010000000000
+#                   55 in = 1011, enable 0000100000000000
+#                   60 in = 1100, enable 0001000000000000
+#                   65 in = 1101, enable 0010000000000000
+#                   70 in = 1110, enable 0100000000000000
+#                   75 in = 1111, enable 1000000000000000
+#                   80 in = 000x, enable zzzzzzzzzzzzzzzz

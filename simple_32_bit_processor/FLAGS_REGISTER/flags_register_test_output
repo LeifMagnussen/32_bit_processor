@@ -1,0 +1,7 @@
+# Start time: 14:17:22 on Nov 16,2020
+# Loading work.flags_register_test
+# Loading work.flags_register
+run -all
+#                    0 write = 1001, read 1001
+#                   10 write = 1101, read 1101
+#                   15 write = 1111, read 1111

@@ -1,0 +1,7 @@
+# Start time: 15:58:11 on Nov 16,2020
+# Loading work.ldr_mux_test
+# Loading work.ldr_mux
+run -all
+#                    0 select = x, out_load_data xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#                    5 select = 0, out_load_data 00000000000000000000000000000101
+#                   10 select = 1, out_load_data 00000000000000001110101001100000

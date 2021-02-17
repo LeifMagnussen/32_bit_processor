@@ -1,0 +1,15 @@
+{C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_LSR/32_BIT_LSR_TEST.V} {1 {vlog -work work -stats=none {C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_LSR/32_BIT_LSR_TEST.V}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BIT_LSR_TEST
+
+Top level modules:
+	BIT_LSR_TEST
+
+} {} {}} {C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_LSR/32_BIT_LSR.V} {1 {vlog -work work -stats=none {C:/Users/tymer/Desktop/My Docs/ENGR 468/engr468termproject/simple_32_bit_processor/32_BIT_ALU/32_BIT_LSR/32_BIT_LSR.V}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BIT_LSR
+
+Top level modules:
+	BIT_LSR
+
+} {} {}}
